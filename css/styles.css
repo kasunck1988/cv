@@ -1,0 +1,17 @@
+    body{
+        background-color:#c6e1ed
+    }
+    hr{
+        border-style:none;
+        border-top-style:dotted;
+        width:25%;
+        border-color:rgb(241, 81, 81);
+        border-width:5px;   
+    }
+    h1{
+        color:#5b050c;
+        text-decoration-line:underline;
+    }
+    h3{
+        color:#544ced
+    }
